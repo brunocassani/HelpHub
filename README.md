@@ -1,6 +1,6 @@
 ## HelpHub
 
-A project created for the 2024 HackTheHeights competition. A responsive website that gives basic information for people in need for information on food/shelter/health basics and where to find more help.
+A project created for the 2024 HackTheHeights competition. This contains a responsive website that provides information for people in need for food/shelter/health in the BC area, pointing them to the best nearby resources to find hands-on help.
 
 ## License
 
